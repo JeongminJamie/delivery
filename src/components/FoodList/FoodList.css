@@ -1,0 +1,10 @@
+.main-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.FoodList-container {
+  width: 50%;
+  margin: 80px 20px 80px 20px;
+}

@@ -1,0 +1,9 @@
+.food-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.quantity {
+  display: flex;
+  justify-content: row;
+}

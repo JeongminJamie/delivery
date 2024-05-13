@@ -1,0 +1,46 @@
+.info-price-quantity,
+.cart-food,
+.cart-food__buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.cart-food {
+  border: 1px solid;
+  padding: 15px;
+  margin-bottom: 10px;
+  justify-content: space-between;
+}
+
+.cart-food-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-price-quantity {
+  gap: 10px;
+}
+
+.info-quantity {
+  border: 1px solid;
+  width: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.75rem;
+}
+
+.cart-food__buttons {
+  gap: 15px;
+}
+
+.buttons-subtract,
+.buttons-add {
+  border: 1px solid;
+  width: 25px;
+  height: 17px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+}
